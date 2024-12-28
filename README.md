@@ -26,6 +26,8 @@ SQL Injection (SQLi) là một lỗ hổng bảo mật nghiêm trọng trong cá
 
 2.5. Out-of-Band SQL Injection
 
+---
+
 ### 3. Cách lập trình an toàn để tránh SQLi
 
 1. **Prepared Statements (PDO trong PHP):**
