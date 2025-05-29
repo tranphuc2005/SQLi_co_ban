@@ -1,3 +1,15 @@
+## 📑 Mục lục
+
+- [Phần 1: Kiến thức cơ bản về SQL Injection (SQLi)](#phần-1-kiến-thức-cơ-bản-về-sql-injection-sqli)  
+  - [1. Giới thiệu về SQL Injection (SQLi)](#1-giới-thiệu-về-sql-injection-sqli)  
+  - [2. Các loại SQL Injection và cách khai thác, nhận biết lỗi](#2-các-loại-sql-injection-và-cách-khai-thác-nhận-biết-lỗi)  
+  - [3. Cách lập trình an toàn để không bị SQL Injection (ví dụ với PHP)](#3-cách-lập-trình-an-toàn-để-không-bị-sql-injection-ví-dụ-với-php)  
+
+- [Phần 2: Kiến thức nâng cao](#phần-2-kiến-thức-nâng-cao)  
+  - [1. Các kỹ thuật SQLi nâng cao:](#1-các-kỹ-thuật-sqli-nâng-cao)  
+  - [2. Thực hành](#2-thực-hành)
+
+
 # Phần 1: Kiến thức cơ bản về SQL Injection (SQLi)
 
 ### 1. Giới thiệu về SQL Injection (SQLi)
